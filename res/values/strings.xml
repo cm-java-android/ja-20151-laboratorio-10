@@ -4,5 +4,8 @@
     <string name="app_name">Laboratorio10</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="btn_info">Mais informações</string>
+    <string name="contato">contato@lojamotos.com.br</string>
+    <string name="telefone">(21) 99876 5432</string>
 
 </resources>
